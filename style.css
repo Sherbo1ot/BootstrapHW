@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(134, 134, 134, 0.773);
+}
+
+/* 2 section */
+.block__two__cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.block__two__card {
+  margin: 30px;
+}
+
+/* footer */
+.footer {
+  background: rgb(40, 40, 40);
+  padding: 50px;
+  border-radius: 10px;
+}
